@@ -1,0 +1,62 @@
+body {
+  background-color:powderblue;
+}
+
+h1, h2 {
+  color: red;
+}
+
+.interests-list__list-item {
+  color: #ff6666;
+}
+.games-list {
+  color: #66b3ff;
+}
+.clancy-game-list {
+  color: #009933;
+}
+.clancy-game-list__list-item--wildlands {
+  color: #003300;
+}
+
+
+.favorite-food-list__list-item {
+  color: #ffff00;
+}
+.favorite-food-list__list-item--biefstuk {
+  color: #b3b300;
+}
+
+
+.good-food-list__list-item {
+  color: #d279a6;
+}
+.good-food-list__list-item--100 {
+  color: #862d59;
+}
+
+.eiffeltoren__image {
+  width: 550px;
+}
+.eiffeltoren__image:hover {
+  width: 750px;
+}
+
+.codecademy-stukje__title {
+  font-size: 2em;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+.codecademy-stukje__linkje {
+  text-decoration: none;
+}
+.codecademy-stukje__linkje--text {
+  color: red;
+}
+.codecademy-stukje__linkje--text:hover {
+  color: blue;
+}
+
+#validatie {
+  margin-top: 10px;
+}
